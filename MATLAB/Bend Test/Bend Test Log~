@@ -1,0 +1,22 @@
+Bend Test Log
+
+10-15/10/13
+Demostrated LEGO
+
+16/10/13 - Project Meeting
+Decided to try 3-point bend test.
+
+23/10/13 - Project Meeting
+I showed Andrew my model to date. This consisted of a motor pulling a spring connected to a simply supported beam and a vertically traversing light sensor to detect top beam's location. In this situation the independent variable was the displacement of the bottom of the spring (i.e. load) the position of the top of the beam(i.e. displacment) was the independent variable
+
+Another solution was suggested that the problem could be looked at in the opposite way. An evenly spaced 'barcode' could be attached to the top of the beam. The bottom of the spring could be pulled down continuously and the force could be worked out for each peak/displacement.
+
+23/10/13 - 'Barcode' Test
+Some good defined peaks for 1mm spacings and ok for 0.5mm spacings. May be able to use the 0.5mm spacing but may not work. Should try 1mm spacing i think
+
+
+Todo:
+Find k value of spring
+Calibrate displacement of spring end vs motor rotation
+Attach barcode effectively
+
