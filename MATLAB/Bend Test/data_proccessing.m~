@@ -90,5 +90,5 @@ grid on
 % Beam Calc
 YoungsModulous = (LineGradient * BeamLength^3) / (48 * SecondMomentArea);
 format short
-text(0.00025,4.5,['Youngs modulous = ',num2str(YoungsModulous/(1e+9)),' GPa'])
+text(0,4.5,['Youngs modulous = ',num2str(YoungsModulous/(1e+9)),' GPa'],'fontsize' )
 
